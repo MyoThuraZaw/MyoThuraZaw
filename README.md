@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MyoThuraZaw
-- 👀 I’m interested in iOS development.
+- 👀 I’m an iOS development.
 - 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on awesome iOS projects
 - 📫 How to reach me ---> mtrzmyothurazaw@gmail.com

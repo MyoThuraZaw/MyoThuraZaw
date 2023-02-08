@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MyoThuraZaw
-- 👀 I’m an iOS development.
+- 👀 I’m an iOS developer.
 - 💞️ I’m looking to collaborate on awesome iOS projects
 - 📫 How to reach me ---> mtrzmyothurazaw@gmail.com
 
